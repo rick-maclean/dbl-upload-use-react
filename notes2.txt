@@ -1,0 +1,9 @@
+
+4. Run `> npm install` to install the project dependencies
+5. Run `> gulp` command to start the automation
+
+
+npm install reactify -save-dev    I did this for each dependancy. Not sure if that was needed.
+
+npm install --global gulp
+$ gulp

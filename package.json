@@ -1,0 +1,29 @@
+{
+  "name": "reatInterface",
+  "version": "0.0.1",
+  "description": "Project for Building USB upload for audio files etc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/planetoftheweb/reactinterface.git"
+  },
+  "author": "Rick MacLean",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-react": "^3.1.0",
+    "gulp-webserver": "^0.8.8",
+    "jshint-stylish": "^1.0.2",
+    "lodash": "^4.17.4",
+    "minimatch": "^3.0.4",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "reactify": "^1.1.1"
+  },
+  "dependencies": {
+    "electron-json-storage": "^3.2.0",
+    "rc-progress": "^2.2.4",
+    "react-progress": "0.0.12",
+    "react-progressbar": "^1.4.6"
+  }
+}
