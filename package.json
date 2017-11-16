@@ -1,5 +1,6 @@
 {
   "name": "reatInterface",
+  "license": "MIT",
   "version": "0.0.1",
   "description": "Project for Building USB upload for audio files etc",
   "repository": {
